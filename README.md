@@ -103,3 +103,4 @@ In order to complete this assignment, you must do the following:
 ### Grading
 
 This assignment will be graded via peer assessment.
+This line was added to check the connection of local file with Git.
